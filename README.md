@@ -14,7 +14,10 @@ This repository was created to analyse a financial statement using Javascript da
 
 ## Usage
 
-To access the final report of the financial statement, you will need to access the browser console. Right click on the webpage, select inspect and select the console tab.
+To access the final report of the financial statement, you will need to access the browser console. Right click on the webpage, select inspect and select the console tab. You can access the wesite [HERE](https://abduelamin.github.io/Console-Finances/)
+
+
+![Console screenshot](https://github.com/abduelamin/Console-Finances/assets/149680577/886e3d33-32bd-455b-9b88-61664e3ad23b)
 
 
 ## Contact
